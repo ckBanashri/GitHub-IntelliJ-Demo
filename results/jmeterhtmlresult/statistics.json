@@ -1,0 +1,34 @@
+{
+  "Mock API Test" : {
+    "transaction" : "Mock API Test",
+    "sampleCount" : 20,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 512.3999999999999,
+    "medianResTime" : 504.0,
+    "minResTime" : 465.0,
+    "maxResTime" : 597.0,
+    "pct1ResTime" : 552.6,
+    "pct2ResTime" : 594.8,
+    "pct3ResTime" : 597.0,
+    "throughput" : 6.466214031684449,
+    "receivedKBytesPerSec" : 131.47031856207565,
+    "sentKBytesPerSec" : 1.1176951988360815
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 20,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 512.3999999999999,
+    "medianResTime" : 504.0,
+    "minResTime" : 465.0,
+    "maxResTime" : 597.0,
+    "pct1ResTime" : 552.6,
+    "pct2ResTime" : 594.8,
+    "pct3ResTime" : 597.0,
+    "throughput" : 6.466214031684449,
+    "receivedKBytesPerSec" : 131.47031856207565,
+    "sentKBytesPerSec" : 1.1176951988360815
+  }
+}
